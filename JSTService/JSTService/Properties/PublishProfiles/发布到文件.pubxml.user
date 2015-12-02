@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\JSTService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/da/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/de/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/28/2015 12:55:49</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>11/28/2015 12:55:49</publishTime>
+    </File>
+    <File Include="bin/es/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/fi/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/FluentValidation.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/fr/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/it/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/JimLog.dll">
+      <publishTime>12/01/2015 18:45:29</publishTime>
+    </File>
+    <File Include="bin/JSTService.dll">
+      <publishTime>12/02/2015 16:46:20</publishTime>
+    </File>
+    <File Include="bin/JSTService.ServiceInterface.dll">
+      <publishTime>12/02/2015 16:46:19</publishTime>
+    </File>
+    <File Include="bin/JSTService.ServiceModel.dll">
+      <publishTime>12/02/2015 16:46:19</publishTime>
+    </File>
+    <File Include="bin/ko/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>12/01/2015 18:45:29</publishTime>
+    </File>
+    <File Include="bin/mk/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/02/2015 13:30:43</publishTime>
+    </File>
+    <File Include="bin/nl/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/pl/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/pt/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/ru/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Client.dll">
+      <publishTime>11/28/2015 12:14:29</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>11/28/2015 12:14:29</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>11/28/2015 12:14:29</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>11/28/2015 12:14:29</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.dll">
+      <publishTime>11/28/2015 12:14:35</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Razor.dll">
+      <publishTime>11/28/2015 12:14:36</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>11/28/2015 12:14:37</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Server.dll">
+      <publishTime>11/28/2015 12:14:38</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>11/28/2015 12:14:29</publishTime>
+    </File>
+    <File Include="bin/sv/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/28/2015 12:14:36</publishTime>
+    </File>
+    <File Include="bin/tr/FluentValidation.resources.dll">
+      <publishTime>11/28/2015 12:35:29</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/EntityFramework.resources.dll">
+      <publishTime>11/28/2015 13:07:59</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/EntityFramework.SqlServer.resources.dll">
+      <publishTime>11/28/2015 13:07:59</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/28/2015 12:13:59</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/01/2015 18:45:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/02/2015 16:39:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
